@@ -1,0 +1,10 @@
+python3.8
+postgresql jaxtek
+pip install Pillow
+pip install imagehash
+pip install psycopg2
+pip install python-varnish
+pip install aiohttp
+pip install librosa
+pip install redis
+-Install varnish,cygrunsrv packages via cygwin

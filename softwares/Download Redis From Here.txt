@@ -1,0 +1,3 @@
+Redis download page for windows
+
+https://github.com/microsoftarchive/redis/releases

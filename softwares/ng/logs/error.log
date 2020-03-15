@@ -1,0 +1,294 @@
+2019/10/31 20:11:46 [error] 1056#1584: *3 CreateFile() "C:\yt\ng/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2019/10/31 20:22:00 [notice] 4436#7600: signal process started
+2019/10/31 20:22:29 [notice] 1140#9472: signal process started
+2019/10/31 20:32:21 [notice] 8032#1892: signal process started
+2019/10/31 20:32:21 [error] 8032#1892: CreateFile() "C:\yt\ng/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/10/31 20:32:27 [notice] 8348#5116: signal process started
+2019/10/31 20:32:27 [error] 8348#5116: CreateFile() "C:\yt\ng/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/10/31 20:34:15 [notice] 3196#9692: signal process started
+2019/10/31 20:34:25 [error] 5352#9596: *3 CreateFile() "C:\yt\ng/html/favicon.ico" failed (2: The system cannot find the file specified), client: 2405:204:72ca:ff67:15a1:a62:56af:f45a, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "[2405:204:72ca:ff67:15a1:a62:56af:f45a]", referrer: "http://[2405:204:72ca:ff67:15a1:a62:56af:f45a]/"
+2019/10/31 20:45:33 [notice] 3188#9236: signal process started
+2019/10/31 20:46:50 [notice] 5584#6756: signal process started
+2019/10/31 20:49:36 [notice] 5040#9708: signal process started
+2019/10/31 20:51:57 [notice] 5712#2396: signal process started
+2019/10/31 20:53:17 [error] 1056#1584: *4 CreateFile() "C:\yt\ng/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/11/01 10:44:56 [notice] 5436#7412: signal process started
+2019/11/01 11:00:30 [notice] 7336#6132: signal process started
+2019/11/01 11:23:25 [notice] 7656#2212: signal process started
+2019/11/01 11:29:13 [notice] 2636#692: signal process started
+2019/11/01 11:32:09 [notice] 1476#4596: signal process started
+2019/11/01 11:32:55 [notice] 3684#4128: signal process started
+2019/11/01 11:42:03 [notice] 4056#6140: signal process started
+2019/11/01 11:42:03 [error] 4056#6140: CreateFile() "C:\yt\ng/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/11/01 11:42:24 [notice] 8856#6888: signal process started
+2019/11/01 11:42:24 [error] 8856#6888: CreateFile() "C:\yt\ng/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/11/01 20:23:19 [notice] 2204#112: signal process started
+2019/11/01 20:23:22 [alert] 5936#8336: CloseHandle(00000290) failed (6: The handle is invalid)
+2019/11/02 08:19:02 [notice] 11852#11856: signal process started
+2019/11/02 09:32:27 [notice] 15748#15752: signal process started
+2019/11/10 16:33:04 [notice] 8280#7156: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/11/10 16:33:04 [emerg] 8280#7156: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/11/10 16:33:04 [emerg] 8280#7156: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/11/10 16:33:05 [notice] 3368#628: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/11/10 16:33:05 [emerg] 3368#628: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/11/10 16:33:05 [emerg] 3368#628: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:47:31 [notice] 11400#12764: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:47:31 [emerg] 11400#12764: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:47:31 [emerg] 11400#12764: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:47:31 [notice] 11400#12764: signal process started
+2019/12/03 17:47:31 [error] 11400#12764: OpenEvent("Global\ngx_stop_8280") failed (2: The system cannot find the file specified)
+2019/12/03 17:47:49 [notice] 13828#14388: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:47:49 [emerg] 13828#14388: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:47:49 [emerg] 13828#14388: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:47:49 [notice] 13828#14388: signal process started
+2019/12/03 17:47:49 [error] 13828#14388: OpenEvent("Global\ngx_reload_8280") failed (2: The system cannot find the file specified)
+2019/12/03 17:51:58 [notice] 8276#10632: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:51:58 [emerg] 8276#10632: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:51:58 [emerg] 8276#10632: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:52:00 [notice] 13232#9076: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:52:00 [emerg] 13232#9076: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:52:00 [emerg] 13232#9076: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:54:07 [notice] 14296#8064: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:54:07 [emerg] 14296#8064: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:54:07 [emerg] 14296#8064: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:54:08 [notice] 14808#5844: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:54:08 [emerg] 14808#5844: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:54:08 [emerg] 14808#5844: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:54:09 [notice] 9280#14236: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:54:09 [emerg] 9280#14236: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:54:09 [emerg] 9280#14236: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:54:10 [notice] 14180#816: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:54:10 [emerg] 14180#816: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:54:10 [emerg] 14180#816: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:54:11 [notice] 9380#6420: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:54:11 [emerg] 9380#6420: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:54:11 [emerg] 9380#6420: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:54:12 [notice] 14016#5632: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:54:12 [emerg] 14016#5632: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:54:12 [emerg] 14016#5632: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:54:13 [notice] 13488#8140: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:54:13 [emerg] 13488#8140: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:54:13 [emerg] 13488#8140: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:54:13 [notice] 14496#10380: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:54:13 [emerg] 14496#10380: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:54:13 [emerg] 14496#10380: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:54:14 [notice] 11836#11716: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:54:14 [emerg] 11836#11716: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:54:14 [emerg] 11836#11716: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:54:15 [notice] 9196#12444: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:54:15 [emerg] 9196#12444: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:54:15 [emerg] 9196#12444: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:54:16 [notice] 15668#8148: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:54:16 [emerg] 15668#8148: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:54:16 [emerg] 15668#8148: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:54:17 [notice] 6660#4244: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:54:17 [emerg] 6660#4244: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:54:17 [emerg] 6660#4244: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:54:49 [notice] 936#4600: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:54:49 [emerg] 936#4600: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:54:49 [emerg] 936#4600: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:54:50 [notice] 4928#7380: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:54:50 [emerg] 4928#7380: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:54:50 [emerg] 4928#7380: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:54:52 [notice] 4968#14972: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:54:52 [emerg] 4968#14972: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:54:52 [emerg] 4968#14972: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:54:52 [notice] 15948#12724: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:54:52 [emerg] 15948#12724: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:54:52 [emerg] 15948#12724: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:55:09 [notice] 6492#9184: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:55:09 [emerg] 6492#9184: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:55:09 [emerg] 6492#9184: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:55:09 [notice] 6492#9184: signal process started
+2019/12/03 17:55:09 [notice] 4384#9052: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:55:09 [emerg] 4384#9052: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:55:09 [emerg] 4384#9052: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:59:00 [notice] 13948#5824: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:59:00 [emerg] 13948#5824: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:59:00 [emerg] 13948#5824: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:59:00 [notice] 4488#5900: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:59:00 [emerg] 4488#5900: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:59:00 [emerg] 4488#5900: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:59:01 [notice] 13184#4992: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:59:01 [emerg] 13184#4992: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:59:01 [emerg] 13184#4992: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:59:01 [notice] 13896#14736: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:59:01 [emerg] 13896#14736: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:59:01 [emerg] 13896#14736: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:59:02 [notice] 16340#8180: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:59:02 [emerg] 16340#8180: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:59:02 [emerg] 16340#8180: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:59:02 [notice] 3804#15484: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:59:02 [emerg] 3804#15484: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:59:02 [emerg] 3804#15484: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:59:32 [notice] 5928#8236: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:59:32 [emerg] 5928#8236: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:59:32 [emerg] 5928#8236: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:59:32 [notice] 7844#5984: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:59:32 [emerg] 7844#5984: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:59:32 [emerg] 7844#5984: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:59:33 [notice] 5936#9160: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:59:33 [emerg] 5936#9160: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:59:33 [emerg] 5936#9160: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 17:59:34 [notice] 11288#6924: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 17:59:34 [emerg] 11288#6924: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 17:59:34 [emerg] 11288#6924: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 18:02:36 [notice] 13916#4188: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 18:02:36 [emerg] 13916#4188: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 18:02:36 [emerg] 13916#4188: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 18:02:37 [notice] 8832#13096: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 18:02:37 [emerg] 8832#13096: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 18:02:37 [emerg] 8832#13096: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 18:04:13 [notice] 5352#9708: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 18:04:13 [emerg] 5352#9708: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 18:04:13 [emerg] 5352#9708: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 18:04:13 [notice] 5352#9708: signal process started
+2019/12/03 18:09:35 [notice] 14904#14552: using inherited sockets from "c:\yt\ng\nginx.exe"
+2019/12/03 18:09:35 [emerg] 14904#14552: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2019/12/03 18:09:35 [emerg] 14904#14552: invalid socket number "c:\yt\ng\nginx.exe" in NGINX environment variable, ignoring
+2019/12/03 18:09:35 [notice] 14904#14552: signal process started
+2019/12/03 18:19:42 [notice] 5736#5740: signal process started
+2019/12/03 18:20:05 [notice] 5692#5448: signal process started
+2019/12/03 18:20:19 [notice] 4052#3924: signal process started
+2019/12/03 18:20:19 [error] 4052#3924: CreateFile() "C:\yt\ng/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/12/03 18:20:23 [notice] 4876#5024: signal process started
+2019/12/03 18:20:23 [error] 4876#5024: CreateFile() "C:\yt\ng/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/12/03 18:20:40 [notice] 4300#5500: signal process started
+2019/12/03 18:21:45 [notice] 4260#5472: signal process started
+2019/12/03 18:27:52 [notice] 2772#4784: signal process started
+2019/12/03 18:34:29 [notice] 6028#5104: signal process started
+2019/12/03 18:34:32 [notice] 7844#7676: signal process started
+2019/12/03 18:34:43 [notice] 7672#4728: signal process started
+2020/01/27 17:05:09 [emerg] 10060#11496: host not found in upstream "localhost" in D:\YelloSupport\ng/conf/nginx.conf:48
+2020/01/27 17:05:11 [emerg] 10496#10884: host not found in upstream "localhost" in D:\YelloSupport\ng/conf/nginx.conf:48
+2020/01/27 17:05:39 [emerg] 12156#3300: host not found in upstream "localhost" in D:\YelloSupport\ng/conf/nginx.conf:48
+2020/01/27 17:07:43 [emerg] 8200#5072: host not found in upstream "localhost" in D:\YelloSupport\ng/conf/nginx.conf:48
+2020/01/27 17:07:49 [emerg] 12000#10008: host not found in upstream "localhost" in D:\YelloSupport\ng/conf/nginx.conf:48
+2020/01/27 17:08:31 [notice] 9128#4912: signal process started
+2020/01/27 17:08:31 [error] 9128#4912: OpenEvent("Global\ngx_reload_6920") failed (2: The system cannot find the file specified)
+2020/01/28 20:44:00 [notice] 7736#11684: signal process started
+2020/01/28 20:44:00 [error] 7736#11684: OpenEvent("Global\ngx_reload_6920") failed (2: The system cannot find the file specified)
+2020/01/28 20:44:33 [notice] 5616#6756: signal process started
+2020/01/28 20:44:46 [notice] 5072#10292: signal process started
+2020/01/28 20:44:50 [notice] 8840#8940: signal process started
+2020/01/28 20:44:50 [error] 8840#8940: CreateFile() "D:\YelloSupport\ng/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/01/28 20:45:00 [notice] 9452#11132: signal process started
+2020/02/27 22:01:35 [error] 6212#516: *4 upstream sent no valid HTTP/1.0 header while reading response header from upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /ip HTTP/1.1", upstream: "http://127.0.0.1:65432/ip", host: "127.0.0.1"
+2020/02/27 22:01:35 [error] 6212#516: *4 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /ip HTTP/1.1", upstream: "http://127.0.0.1:65432/ip", host: "127.0.0.1"
+2020/02/27 22:03:16 [error] 6212#516: *6 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /ip HTTP/1.1", upstream: "http://127.0.0.1:65432/ip", host: "127.0.0.1"
+2020/02/27 22:03:47 [error] 6212#516: *8 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /ip HTTP/1.1", upstream: "http://127.0.0.1:65432/ip", host: "127.0.0.1"
+2020/02/27 22:04:04 [error] 6212#516: *10 upstream sent no valid HTTP/1.0 header while reading response header from upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /ip HTTP/1.1", upstream: "http://127.0.0.1:65432/ip", host: "127.0.0.1"
+2020/02/27 22:04:06 [error] 6212#516: *10 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /ip HTTP/1.1", upstream: "http://127.0.0.1:65432/ip", host: "127.0.0.1"
+2020/02/27 22:04:16 [error] 6212#516: *12 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /ip HTTP/1.1", upstream: "http://127.0.0.1:65432/ip", host: "127.0.0.1"
+2020/02/27 22:04:53 [error] 6212#516: *14 upstream sent no valid HTTP/1.0 header while reading response header from upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /ip HTTP/1.1", upstream: "http://127.0.0.1:65432/ip", host: "127.0.0.1"
+2020/02/27 22:04:54 [error] 6212#516: *14 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /ip HTTP/1.1", upstream: "http://127.0.0.1:65432/ip", host: "127.0.0.1"
+2020/02/27 22:05:23 [error] 6212#516: *16 upstream sent no valid HTTP/1.0 header while reading response header from upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /ip HTTP/1.1", upstream: "http://127.0.0.1:65432/ip", host: "127.0.0.1"
+2020/02/27 22:05:23 [error] 6212#516: *16 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /ip HTTP/1.1", upstream: "http://127.0.0.1:65432/ip", host: "127.0.0.1"
+2020/02/27 22:06:15 [error] 6212#516: *18 upstream sent no valid HTTP/1.0 header while reading response header from upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /ip HTTP/1.1", upstream: "http://127.0.0.1:65432/ip", host: "127.0.0.1"
+2020/02/27 22:07:15 [error] 6212#516: *18 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /ip HTTP/1.1", upstream: "http://127.0.0.1:65432/ip", host: "127.0.0.1"
+2020/02/27 22:07:53 [error] 6212#516: *20 upstream sent no valid HTTP/1.0 header while reading response header from upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /ip HTTP/1.0", upstream: "http://127.0.0.1:65432/ip", host: "127.0.0.1"
+2020/02/27 22:07:54 [error] 6212#516: *20 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /ip HTTP/1.0", upstream: "http://127.0.0.1:65432/ip", host: "127.0.0.1"
+2020/02/27 22:08:18 [error] 6212#516: *22 upstream sent no valid HTTP/1.0 header while reading response header from upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /ip HTTP/1.0", upstream: "http://127.0.0.1:65432/ip", host: "127.0.0.1"
+2020/02/27 22:09:07 [error] 6212#516: *22 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /ip HTTP/1.0", upstream: "http://127.0.0.1:65432/ip", host: "127.0.0.1"
+2020/02/27 22:28:19 [error] 2400#8468: *26 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /1a68f0b1b1f0c6c3.png HTTP/1.1", upstream: "http://127.0.0.1:65432/1a68f0b1b1f0c6c3.png", host: "127.0.0.1:8001"
+2020/02/27 22:29:22 [error] 2400#8468: *29 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /1a68f0b1b1f0c6c3.png HTTP/1.1", upstream: "http://127.0.0.1:65432/1a68f0b1b1f0c6c3.png", host: "127.0.0.1:8001"
+2020/02/27 22:29:23 [error] 2400#8468: *29 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:65432/favicon.ico", host: "127.0.0.1:8001"
+2020/02/27 22:31:43 [error] 7728#6448: *36 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /1.jpg HTTP/1.1", upstream: "http://127.0.0.1:65432/1.jpg", host: "127.0.0.1:8001"
+2020/02/27 22:39:39 [error] 6536#2988: *91 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /2.png HTTP/1.1", upstream: "http://127.0.0.1:65432/2.png", host: "127.0.0.1:8001"
+2020/02/27 22:43:07 [error] 6536#2988: *117 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: 127.0.0.1, request: "GET /2.png HTTP/1.1", upstream: "http://127.0.0.1:65432/2.png", host: "127.0.0.1:8001"
+2020/02/27 23:24:22 [error] 6536#2988: *322 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.225.56, server: 127.0.0.1, request: "GET /2.png HTTP/1.1", upstream: "http://127.0.0.1:65432/2.png", host: "192.168.225.56:8001"
+2020/02/27 23:24:28 [error] 6536#2988: *322 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.225.56, server: 127.0.0.1, request: "GET /2.png HTTP/1.1", upstream: "http://127.0.0.1:65432/2.png", host: "192.168.225.56:8001"
+2020/02/27 23:24:42 [error] 6536#2988: *322 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.225.56, server: 127.0.0.1, request: "GET /2.png HTTP/1.1", upstream: "http://127.0.0.1:65432/2.png", host: "192.168.225.56:8001"
+2020/02/27 23:24:50 [error] 6536#2988: *322 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.225.56, server: 127.0.0.1, request: "GET /2.png HTTP/1.1", upstream: "http://127.0.0.1:65432/2.png", host: "192.168.225.56:8001"
+2020/02/28 00:26:58 [error] 8540#9084: *5 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:899:cca7:5b1:cbfe:81ad:a779, server: _, request: "GET /2.png HTTP/1.1", upstream: "http://192.168.225.56:65432/2.png", host: "[2409:4072:899:cca7:5b1:cbfe:81ad:a779]:8001"
+2020/02/28 00:26:59 [error] 8540#9084: *7 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:899:cca7:5b1:cbfe:81ad:a779, server: _, request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.225.56:65432/favicon.ico", host: "[2409:4072:899:cca7:5b1:cbfe:81ad:a779]:8001"
+2020/02/28 00:27:05 [error] 8540#9084: *5 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:899:cca7:5b1:cbfe:81ad:a779, server: _, request: "GET /2.png HTTP/1.1", upstream: "http://192.168.225.56:65432/2.png", host: "[2409:4072:899:cca7:5b1:cbfe:81ad:a779]:8001"
+2020/03/15 11:21:56 [error] 9280#11492: *22 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:400:e2a3:693b:b768:ba67:7fc4, server: _, request: "GET / HTTP/1.1", upstream: "http://192.168.225.56:8000/", host: "[2409:4072:400:e2a3:693b:b768:ba67:7fc4]"
+2020/03/15 11:21:58 [error] 9280#11492: *22 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:400:e2a3:693b:b768:ba67:7fc4, server: _, request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.225.56:8000/favicon.ico", host: "[2409:4072:400:e2a3:693b:b768:ba67:7fc4]"
+2020/03/15 11:23:29 [error] 9280#11492: *25 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:400:e2a3:693b:b768:ba67:7fc4, server: _, request: "GET / HTTP/1.1", upstream: "http://192.168.225.56:8000/", host: "[2409:4072:400:e2a3:693b:b768:ba67:7fc4]"
+2020/03/15 12:01:54 [error] 9280#11492: *41 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:400:e2a3:693b:b768:ba67:7fc4, server: _, request: "GET / HTTP/1.1", upstream: "http://192.168.225.56:8000/", host: "[2409:4072:400:e2a3:693b:b768:ba67:7fc4]"
+2020/03/15 12:05:54 [error] 9280#11492: *54 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:400:e2a3:693b:b768:ba67:7fc4, server: _, request: "GET /static/favicon.ico HTTP/1.1", upstream: "http://192.168.225.56:8000/static/favicon.ico", host: "[2409:4072:400:e2a3:693b:b768:ba67:7fc4]"
+2020/03/15 12:06:03 [error] 9280#11492: *57 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:400:e2a3:693b:b768:ba67:7fc4, server: _, request: "GET / HTTP/1.1", upstream: "http://192.168.225.56:8000/", host: "[2409:4072:400:e2a3:693b:b768:ba67:7fc4]"
+2020/03/15 12:37:51 [error] 9280#11492: *101 client intended to send too large body: 1327118 bytes, client: 2409:4072:40e:fa22:cc10:1285:592a:346c, server: _, request: "POST /upload/ HTTP/1.1", host: "[2409:4072:400:e2a3:693b:b768:ba67:7fc4]", referrer: "http://[2409:4072:400:e2a3:693b:b768:ba67:7fc4]/upload/"
+2020/03/15 12:45:18 [error] 9280#11492: *111 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:400:e2a3:693b:b768:ba67:7fc4, server: _, request: "GET / HTTP/1.1", upstream: "http://192.168.225.56:8000/", host: "[2409:4072:400:e2a3:693b:b768:ba67:7fc4]"
+2020/03/15 12:45:29 [error] 9280#11492: *114 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:400:e2a3:693b:b768:ba67:7fc4, server: _, request: "GET / HTTP/1.1", upstream: "http://192.168.225.56:8000/", host: "[2409:4072:400:e2a3:693b:b768:ba67:7fc4]"
+2020/03/15 14:00:51 [error] 9280#11492: *190 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:400:e2a3:7d3e:3b8f:86ef:9034, server: _, request: "GET /index.html HTTP/1.1", upstream: "http://192.168.225.56:8000/index.html", host: "[2409:4072:400:e2a3:7d3e:3b8f:86ef:9034]"
+2020/03/15 14:00:51 [error] 9280#11492: *190 CreateFile() "D:\YelloSupport\ng/html/50x.html" failed (2: The system cannot find the file specified), client: 2409:4072:400:e2a3:7d3e:3b8f:86ef:9034, server: _, request: "GET /index.html HTTP/1.1", upstream: "http://192.168.225.56:8000/index.html", host: "[2409:4072:400:e2a3:7d3e:3b8f:86ef:9034]"
+2020/03/15 14:01:18 [error] 9280#11492: *190 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:400:e2a3:7d3e:3b8f:86ef:9034, server: _, request: "GET /s/favicon.ico HTTP/1.1", upstream: "http://192.168.225.56:8000/s/favicon.ico", host: "[2409:4072:400:e2a3:7d3e:3b8f:86ef:9034]"
+2020/03/15 14:01:18 [error] 9280#11492: *190 CreateFile() "D:\YelloSupport\ng/html/50x.html" failed (2: The system cannot find the file specified), client: 2409:4072:400:e2a3:7d3e:3b8f:86ef:9034, server: _, request: "GET /s/favicon.ico HTTP/1.1", upstream: "http://192.168.225.56:8000/s/favicon.ico", host: "[2409:4072:400:e2a3:7d3e:3b8f:86ef:9034]"
+2020/03/15 14:01:37 [error] 9280#11492: *190 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:400:e2a3:7d3e:3b8f:86ef:9034, server: _, request: "GET /s/favicon.ico HTTP/1.1", upstream: "http://192.168.225.56:8000/s/favicon.ico", host: "[2409:4072:400:e2a3:7d3e:3b8f:86ef:9034]"
+2020/03/15 14:01:37 [error] 9280#11492: *190 CreateFile() "D:\YelloSupport\ng/html/50x.html" failed (2: The system cannot find the file specified), client: 2409:4072:400:e2a3:7d3e:3b8f:86ef:9034, server: _, request: "GET /s/favicon.ico HTTP/1.1", upstream: "http://192.168.225.56:8000/s/favicon.ico", host: "[2409:4072:400:e2a3:7d3e:3b8f:86ef:9034]"
+2020/03/15 14:01:50 [error] 9280#11492: *190 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:400:e2a3:7d3e:3b8f:86ef:9034, server: _, request: "GET /s/50x.html HTTP/1.1", upstream: "http://192.168.225.56:8000/s/50x.html", host: "[2409:4072:400:e2a3:7d3e:3b8f:86ef:9034]"
+2020/03/15 14:01:50 [error] 9280#11492: *190 CreateFile() "D:\YelloSupport\ng/html/50x.html" failed (2: The system cannot find the file specified), client: 2409:4072:400:e2a3:7d3e:3b8f:86ef:9034, server: _, request: "GET /s/50x.html HTTP/1.1", upstream: "http://192.168.225.56:8000/s/50x.html", host: "[2409:4072:400:e2a3:7d3e:3b8f:86ef:9034]"
+2020/03/15 14:02:14 [error] 9280#11492: *190 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:400:e2a3:7d3e:3b8f:86ef:9034, server: _, request: "GET /s/50x.html HTTP/1.1", upstream: "http://192.168.225.56:8000/s/50x.html", host: "[2409:4072:400:e2a3:7d3e:3b8f:86ef:9034]"
+2020/03/15 14:02:14 [error] 9280#11492: *190 CreateFile() "D:\YelloSupport\ng/html/50x.html" failed (2: The system cannot find the file specified), client: 2409:4072:400:e2a3:7d3e:3b8f:86ef:9034, server: _, request: "GET /s/50x.html HTTP/1.1", upstream: "http://192.168.225.56:8000/s/50x.html", host: "[2409:4072:400:e2a3:7d3e:3b8f:86ef:9034]"
+2020/03/15 14:03:05 [error] 9280#11492: *190 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:400:e2a3:7d3e:3b8f:86ef:9034, server: _, request: "GET /s/50x.html HTTP/1.1", upstream: "http://192.168.225.56:8000/s/50x.html", host: "[2409:4072:400:e2a3:7d3e:3b8f:86ef:9034]"
+2020/03/15 14:06:07 [error] 9280#11492: *205 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:400:e2a3:7d3e:3b8f:86ef:9034, server: _, request: "GET /s/favicon.ico HTTP/1.1", upstream: "http://192.168.225.56:8000/s/favicon.ico", host: "[2409:4072:400:e2a3:7d3e:3b8f:86ef:9034]"
+2020/03/15 14:09:04 [emerg] 16412#17052: "client_max_body_size" directive is not allowed here in D:\YelloSupport\ng/conf/nginx.conf:11
+2020/03/15 14:09:29 [emerg] 8092#11788: "client_max_body_size" directive is not allowed here in D:\YelloSupport\ng/conf/nginx.conf:11
+2020/03/15 14:09:30 [emerg] 11324#14260: "client_max_body_size" directive is not allowed here in D:\YelloSupport\ng/conf/nginx.conf:11
+2020/03/15 14:09:31 [emerg] 6420#9024: "client_max_body_size" directive is not allowed here in D:\YelloSupport\ng/conf/nginx.conf:11
+2020/03/15 14:13:15 [emerg] 16732#15540: "client_max_body_size" directive is not allowed here in D:\YelloSupport\ng/conf/nginx.conf:11
+2020/03/15 14:18:23 [emerg] 15364#9248: "client_max_body_size" directive is not allowed here in D:\YelloSupport\ng/conf/nginx.conf:11
+2020/03/15 14:34:34 [emerg] 6052#6072: "client_max_body_size" directive is not allowed here in D:\YelloSupport\ng/conf/nginx.conf:11
+2020/03/15 14:38:17 [emerg] 6428#6424: "client_max_body_size" directive is not allowed here in D:\YelloSupport\ng/conf/nginx.conf:11
+2020/03/15 14:38:20 [emerg] 6516#6964: "client_max_body_size" directive is not allowed here in D:\YelloSupport\ng/conf/nginx.conf:11
+2020/03/15 14:38:28 [emerg] 2076#6156: "client_max_body_size" directive is not allowed here in D:\YelloSupport\ng/conf/nginx.conf:11
+2020/03/15 14:39:37 [emerg] 6596#5632: "client_max_body_size" directive is not allowed here in D:\YelloSupport\ng/conf/nginx.conf:11
+2020/03/15 14:41:56 [emerg] 6856#6764: "client_max_body_size" directive is not allowed here in D:\YelloSupport\ng/conf/nginx.conf:11
+2020/03/15 14:42:52 [notice] 4908#6268: signal process started
+2020/03/15 14:42:52 [error] 4908#6268: OpenEvent("Global\ngx_reload_12276") failed (2: The system cannot find the file specified)
+2020/03/15 14:46:44 [notice] 7936#7940: signal process started
+2020/03/15 14:46:59 [notice] 8040#8044: signal process started
+2020/03/15 14:47:08 [emerg] 8128#8132: "client_max_body_size" directive is not allowed here in D:\YelloSupport\ng/conf/nginx.conf:11
+2020/03/15 14:47:18 [notice] 8164#8168: signal process started
+2020/03/15 14:47:46 [notice] 7244#7228: signal process started
+2020/03/15 14:48:16 [notice] 7440#7452: signal process started
+2020/03/15 14:49:01 [notice] 6172#7360: signal process started
+2020/03/15 14:49:06 [error] 7672#7684: *2 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:400:e2a3:69eb:ea5d:5b36:41a5, server: _, request: "GET / HTTP/1.1", upstream: "http://192.168.225.56:8000/", host: "[2409:4072:400:e2a3:69eb:ea5d:5b36:41a5]"
+2020/03/15 14:50:27 [notice] 6720#1624: signal process started
+2020/03/15 14:51:13 [error] 8036#8012: *4 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:400:e2a3:69eb:ea5d:5b36:41a5, server: _, request: "GET / HTTP/1.1", upstream: "http://192.168.225.56:8000/", host: "[2409:4072:400:e2a3:69eb:ea5d:5b36:41a5]"
+2020/03/15 14:51:20 [notice] 3644#7332: signal process started
+2020/03/15 14:53:52 [error] 7268#7368: *7 CreateFile() "D:\YelloSupport\ng/html/static" failed (2: The system cannot find the file specified), client: 2409:4072:400:e2a3:69eb:ea5d:5b36:41a5, server: _, request: "GET /static HTTP/1.1", host: "[2409:4072:400:e2a3:69eb:ea5d:5b36:41a5]"
+2020/03/15 14:53:57 [error] 7268#7368: *7 "D:\YelloSupport\ng/html/static/index.html" is not found (3: The system cannot find the path specified), client: 2409:4072:400:e2a3:69eb:ea5d:5b36:41a5, server: _, request: "GET /static/ HTTP/1.1", host: "[2409:4072:400:e2a3:69eb:ea5d:5b36:41a5]"
+2020/03/15 14:54:07 [error] 7268#7368: *7 "D:\YelloSupport\ng/html/static/index.html" is not found (3: The system cannot find the path specified), client: 2409:4072:400:e2a3:69eb:ea5d:5b36:41a5, server: _, request: "GET /static/ HTTP/1.1", host: "[2409:4072:400:e2a3:69eb:ea5d:5b36:41a5]"
+2020/03/15 14:54:31 [error] 7268#7368: *7 CreateFile() "D:\YelloSupport\ng/html/static/50x.html" failed (3: The system cannot find the path specified), client: 2409:4072:400:e2a3:69eb:ea5d:5b36:41a5, server: _, request: "GET /static/50x.html HTTP/1.1", host: "[2409:4072:400:e2a3:69eb:ea5d:5b36:41a5]"
+2020/03/15 14:59:21 [notice] 3884#7496: signal process started
+2020/03/15 14:59:29 [error] 7620#6172: *8 CreateFile() "D:/html/static" failed (3: The system cannot find the path specified), client: 2409:4072:400:e2a3:69eb:ea5d:5b36:41a5, server: _, request: "GET /static HTTP/1.1", host: "[2409:4072:400:e2a3:69eb:ea5d:5b36:41a5]"
+2020/03/15 14:59:50 [error] 7620#6172: *8 CreateFile() "D:/static/static/favicon.ico" failed (3: The system cannot find the path specified), client: 2409:4072:400:e2a3:69eb:ea5d:5b36:41a5, server: _, request: "GET /static/favicon.ico HTTP/1.1", host: "[2409:4072:400:e2a3:69eb:ea5d:5b36:41a5]"
+2020/03/15 15:01:03 [error] 7620#6172: *9 CreateFile() "D:/static/static/favicon.ico" failed (3: The system cannot find the path specified), client: 2409:4072:400:e2a3:69eb:ea5d:5b36:41a5, server: _, request: "GET /static/favicon.ico HTTP/1.1", host: "[2409:4072:400:e2a3:69eb:ea5d:5b36:41a5]"
+2020/03/15 15:01:46 [notice] 6496#7596: signal process started
+2020/03/15 15:02:02 [notice] 7160#5856: signal process started
+2020/03/15 15:02:08 [error] 7916#4280: *10 CreateFile() "D:/html/static/favicon.ico" failed (3: The system cannot find the path specified), client: 2409:4072:400:e2a3:69eb:ea5d:5b36:41a5, server: _, request: "GET /static/favicon.ico HTTP/1.1", host: "[2409:4072:400:e2a3:69eb:ea5d:5b36:41a5]"
+2020/03/15 15:02:13 [error] 7916#4280: *10 "D:/html/static/index.html" is not found (3: The system cannot find the path specified), client: 2409:4072:400:e2a3:69eb:ea5d:5b36:41a5, server: _, request: "GET /static/ HTTP/1.1", host: "[2409:4072:400:e2a3:69eb:ea5d:5b36:41a5]"
+2020/03/15 15:02:50 [error] 7916#4280: *10 CreateFile() "D:/static/x/favicon.ico" failed (3: The system cannot find the path specified), client: 2409:4072:400:e2a3:69eb:ea5d:5b36:41a5, server: _, request: "GET /x/favicon.ico HTTP/1.1", host: "[2409:4072:400:e2a3:69eb:ea5d:5b36:41a5]"
+2020/03/15 15:03:39 [error] 7916#4280: *10 CreateFile() "D:/static/x/favicon.ico" failed (3: The system cannot find the path specified), client: 2409:4072:400:e2a3:69eb:ea5d:5b36:41a5, server: _, request: "GET /x/favicon.ico HTTP/1.1", host: "[2409:4072:400:e2a3:69eb:ea5d:5b36:41a5]"
+2020/03/15 15:04:12 [notice] 4984#2992: signal process started
+2020/03/15 15:04:33 [error] 3272#6928: *11 CreateFile() "D:\YelloSupport\ng/static/x/50.html" failed (2: The system cannot find the file specified), client: 2409:4072:400:e2a3:69eb:ea5d:5b36:41a5, server: _, request: "GET /x/50.html HTTP/1.1", host: "[2409:4072:400:e2a3:69eb:ea5d:5b36:41a5]"
+2020/03/15 15:04:34 [error] 3272#6928: *11 CreateFile() "D:/html/favicon.ico" failed (3: The system cannot find the path specified), client: 2409:4072:400:e2a3:69eb:ea5d:5b36:41a5, server: _, request: "GET /favicon.ico HTTP/1.1", host: "[2409:4072:400:e2a3:69eb:ea5d:5b36:41a5]"
+2020/03/15 15:04:42 [error] 3272#6928: *11 CreateFile() "D:/html/favicon.ico" failed (3: The system cannot find the path specified), client: 2409:4072:400:e2a3:69eb:ea5d:5b36:41a5, server: _, request: "GET /favicon.ico HTTP/1.1", host: "[2409:4072:400:e2a3:69eb:ea5d:5b36:41a5]"
+2020/03/15 15:13:44 [notice] 2656#7084: signal process started
+2020/03/15 15:13:49 [error] 6280#3472: *13 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:400:e2a3:69eb:ea5d:5b36:41a5, server: _, request: "GET /x/favicon.ico HTTP/1.1", upstream: "http://192.168.225.56:8000/x/favicon.ico", host: "[2409:4072:400:e2a3:69eb:ea5d:5b36:41a5]"
+2020/03/15 15:13:59 [error] 6280#3472: *13 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:400:e2a3:69eb:ea5d:5b36:41a5, server: _, request: "GET /x/favicon.ico HTTP/1.1", upstream: "http://192.168.225.56:8000/x/favicon.ico", host: "[2409:4072:400:e2a3:69eb:ea5d:5b36:41a5]"
+2020/03/15 15:22:20 [notice] 7332#7448: signal process started
+2020/03/15 15:24:02 [notice] 1612#3380: signal process started
+2020/03/15 15:24:04 [notice] 7556#7608: signal process started
+2020/03/15 15:24:04 [error] 7556#7608: CreateFile() "D:\YelloSupport\ng/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/15 15:24:13 [notice] 7660#6952: signal process started
+2020/03/15 15:27:08 [error] 6692#1084: *4 upstream prematurely closed connection while reading response header from upstream, client: 2409:4072:400:e2a3:69eb:ea5d:5b36:41a5, server: _, request: "GET / HTTP/1.1", upstream: "http://192.168.225.56:8000/", host: "[2409:4072:400:e2a3:69eb:ea5d:5b36:41a5]"
+2020/03/15 15:28:17 [notice] 6928#6988: signal process started
+2020/03/15 15:33:35 [notice] 8176#7720: signal process started
+2020/03/15 15:35:53 [notice] 1380#3184: signal process started
+2020/03/15 15:36:19 [error] 716#5004: *12 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:913:dd39:55f6:ccbc:7722:614e, server: _, request: "GET / HTTP/1.1", upstream: "http://192.168.225.56:8000/", host: "[2409:4072:913:dd39:55f6:ccbc:7722:614e]"
+2020/03/15 15:37:27 [error] 716#5004: *15 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:913:dd39:55f6:ccbc:7722:614e, server: _, request: "GET /upload HTTP/1.1", upstream: "http://192.168.225.56:8000/upload", host: "[2409:4072:913:dd39:55f6:ccbc:7722:614e]"
+2020/03/15 15:48:23 [error] 716#5004: *28 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:913:dd39:55f6:ccbc:7722:614e, server: _, request: "GET / HTTP/1.1", upstream: "http://192.168.225.56:8000/", host: "[2409:4072:913:dd39:55f6:ccbc:7722:614e]"
+2020/03/15 15:53:58 [error] 716#5004: *41 CreateFile() "D:\YelloSupport\ng/static_files/static/404.jpg" failed (2: The system cannot find the file specified), client: 2409:4072:913:dd39:55f6:ccbc:7722:614e, server: _, request: "GET /static/404.jpg HTTP/1.1", host: "[2409:4072:913:dd39:55f6:ccbc:7722:614e]"
+2020/03/15 16:19:05 [notice] 6712#1644: signal process started
+2020/03/15 16:19:05 [error] 6712#1644: CreateFile() "D:\YelloSupport\ng/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/15 16:19:47 [notice] 1084#5452: signal process started
+2020/03/15 16:22:35 [notice] 7412#1296: signal process started
+2020/03/15 16:22:37 [notice] 2484#1244: signal process started
+2020/03/15 16:22:40 [notice] 5876#7880: signal process started
+2020/03/15 16:32:21 [error] 716#5004: *114 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 2409:4072:6119:1b0d:5024:2aca:a653:7aaf, server: _, request: "GET / HTTP/1.1", upstream: "http://192.168.225.56:8000/", host: "[2409:4072:629b:468:c479:a24:5ec1:2b13]"
+2020/03/15 16:32:28 [error] 716#5004: *114 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:6119:1b0d:5024:2aca:a653:7aaf, server: _, request: "GET / HTTP/1.1", upstream: "http://192.168.225.56:8000/", host: "[2409:4072:629b:468:c479:a24:5ec1:2b13]"
+2020/03/15 16:32:31 [error] 716#5004: *114 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 2409:4072:6119:1b0d:5024:2aca:a653:7aaf, server: _, request: "GET / HTTP/1.1", upstream: "http://192.168.225.56:8000/", host: "[2409:4072:629b:468:c479:a24:5ec1:2b13]"
