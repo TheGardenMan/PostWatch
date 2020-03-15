@@ -1,0 +1,11 @@
+django commands
+django-admin startproject projetc_name
+django-admin startapp app_name
+run server:
+	in project folder
+	pytohn manage.py runserver local_ip:port (localhost:8000 default..if nothing specifed)
+migrations
+	python manage.py makemigrations
+	python manage.py migrate
+
+

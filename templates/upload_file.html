@@ -1,0 +1,27 @@
+<link rel="shortcut icon" href="/static/favicon.ico">
+<style type="text/css">
+	#id_tags,#id_raw_image {
+		background-color: #f44336;
+		border: none;
+		color: white;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		border-radius: 8px;
+	}
+</style>
+
+{% load static %}
+
+{% block content %}
+  <form method="post" autocomplete="off" enctype="multipart/form-data">
+  	<!-- autocomplete="off".So that,when you click browser back button,old from value won't be shown -->
+  	<!-- DND  csrf_token.Necessary for file uploads.To prevent csrf attacks.DND-->
+    {% csrf_token %} 
+    {{ tags_image_form_ }}
+    <!-- <input type="file" name="raw_image"> -->
+    <input type="submit" value="upload!"></input>
+  </form>
+{% endblock %}

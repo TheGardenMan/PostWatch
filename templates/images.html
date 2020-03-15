@@ -1,0 +1,37 @@
+<link rel="shortcut icon" href="/static/favicon.ico">
+<title>Image Page</title>
+<style type="text/css">
+	.button {
+		background-color: #f44336;
+		border: none;
+		color: white;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		border-radius: 8px;
+	}
+</style>
+
+
+{% for hash_and_tag in hashes_and_tags %}
+	<img src="/image/{{hash_and_tag.0}}" />
+	<br>
+	<i>Tags:</i>
+	<b>#{{hash_and_tag.1}}</b>
+	<b>#{{hash_and_tag.2}}</b>
+	<b>#{{hash_and_tag.3}}</b>
+	<b>#{{hash_and_tag.4}}</b>
+	<b>#{{hash_and_tag.5}}</b>
+	<br>
+	<br>
+	<br>
+{% endfor %}
+
+<a href="/upload/"><button class="button">Upload</button></a>
+{%if page_number > 0 %}
+	<a href="/page/{{page_number}}"><button class="button" style="background-color: green;">{{page_number}}</button></a>
+{% else %}
+	<p>You have reached the last page</p>
+{%endif%}

@@ -1,0 +1,9 @@
+<title>File uploaded success</title>
+
+
+{%if upload_status == True %}
+	<h1>File {{filename}} uploaded successfully!</h1>
+{% else %}
+	<h1>File {{filename}} is not a valid image or it already exists</h1>
+{%endif%}
+<a href="/">Click to go to home page!</a>
